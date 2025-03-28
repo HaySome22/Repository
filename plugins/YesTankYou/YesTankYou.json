@@ -1,0 +1,15 @@
+{
+  "Author": "",
+  "Name": "YesTankYou",
+  "InternalName": "YesTankYou",
+  "AssemblyVersion": "7.2.0.5",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "",
+  "AcceptsFeedback": true
+}
