@@ -1,0 +1,18 @@
+[
+    {
+        "Author": "",
+        "Name": "YesTankYou",
+        "Description": "",
+        "InternalName": "YesTankYou",
+        "AssemblyVersion": "7.2.0.5",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 12,
+        "DownloadLinkInstall": "https://github.com/HaySome22/Repository/raw/master/plugins/YesTankYou/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/HaySome22/Repository/raw/master/plugins/YesTankYou/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/HaySome22/Repository/raw/master/plugins/YesTankYou/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1743136362"
+    }
+]
